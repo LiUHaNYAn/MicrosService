@@ -1,0 +1,14 @@
+J:\identityserver4demo\MicrosService\MicroService_Producer\bin\Debug\netcoreapp2.1\MicroService_Producer.deps.json
+J:\identityserver4demo\MicrosService\MicroService_Producer\bin\Debug\netcoreapp2.1\MicroService_Producer.runtimeconfig.json
+J:\identityserver4demo\MicrosService\MicroService_Producer\bin\Debug\netcoreapp2.1\MicroService_Producer.runtimeconfig.dev.json
+J:\identityserver4demo\MicrosService\MicroService_Producer\bin\Debug\netcoreapp2.1\MicroService_Producer.dll
+J:\identityserver4demo\MicrosService\MicroService_Producer\bin\Debug\netcoreapp2.1\MicroService_Producer.pdb
+J:\identityserver4demo\MicrosService\MicroService_Producer\obj\Debug\netcoreapp2.1\MicroService_Producer.csprojAssemblyReference.cache
+J:\identityserver4demo\MicrosService\MicroService_Producer\obj\Debug\netcoreapp2.1\MicroService_Producer.csproj.CoreCompileInputs.cache
+J:\identityserver4demo\MicrosService\MicroService_Producer\obj\Debug\netcoreapp2.1\MicroService_Producer.RazorAssemblyInfo.cache
+J:\identityserver4demo\MicrosService\MicroService_Producer\obj\Debug\netcoreapp2.1\MicroService_Producer.RazorAssemblyInfo.cs
+J:\identityserver4demo\MicrosService\MicroService_Producer\obj\Debug\netcoreapp2.1\MicroService_Producer.AssemblyInfoInputs.cache
+J:\identityserver4demo\MicrosService\MicroService_Producer\obj\Debug\netcoreapp2.1\MicroService_Producer.AssemblyInfo.cs
+J:\identityserver4demo\MicrosService\MicroService_Producer\obj\Debug\netcoreapp2.1\MicroService_Producer.RazorTargetAssemblyInfo.cache
+J:\identityserver4demo\MicrosService\MicroService_Producer\obj\Debug\netcoreapp2.1\MicroService_Producer.dll
+J:\identityserver4demo\MicrosService\MicroService_Producer\obj\Debug\netcoreapp2.1\MicroService_Producer.pdb
